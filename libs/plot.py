@@ -266,5 +266,5 @@ def plot_serie_i(config, input_test, state_test, state_nn):
         plt.xlabel('Steps')
 
 
-        plt.subplots_adjust(left=0.13, bottom=0.05, right=0.99, top=0.97, hspace=0.30)
+        plt.subplots_adjust(left=0.04, bottom=0.09, right=0.99, top=0.97, hspace=0.30)
         plt.show()
