@@ -64,7 +64,6 @@ To visualize the format of the datasets compatible with this code, let's take ro
 
 <div style="text-align: center;">
   <img src="img/robot_scheme.png" alt="drawing" width="350"/>
-  <div> Schematic of a 3 DOF robotic arm system.</div>
 </div>
 
 The 50 series are loaded in CSV format. The 50 series are loaded in CSV format. Let's look at the first 5 lines of [robot_arm_1.csv](datasets/robot_arm/series/robot_arm_1.csv), that are the first 5 time steps:
