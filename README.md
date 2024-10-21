@@ -1,5 +1,5 @@
 # AR_Transformer: Modeling Dynamical Systems with AutoRegressive Transformers
-This repository is part of a paper under review for the Seventh Iberian Robotics Conference. More details will be provided later.
+This repository is part of a paper accepted for the Seventh Iberian Robotics Conference. More details will be provided later.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -152,7 +152,7 @@ Plot and metrics of an example of a test series after running `` python ar_trans
 The pre-trained model is a fast example, feel free to try different hyperparameter configurations or different datasets!
 
 ## Citation
-This repository is part of a paper under review for the Seventh Iberian Robotics Conference. More details will be provided later.
+This repository is part of a paper accepted for the Seventh Iberian Robotics Conference. More details will be provided later.
 
 ## License
 This project is licensed under the GNU General Public License v3.0. You can find the full text of the license in the [LICENSE](LICENSE) file or visit the [GNU website](https://www.gnu.org/licenses/gpl-3.0.en.html) for more details.
