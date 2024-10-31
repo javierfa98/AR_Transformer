@@ -62,9 +62,9 @@ This repository includes two configured datasets, with which you can train model
 
 To visualize the format of the datasets compatible with this code, let's take robot_arm as an example. In [Robot_arm](https://github.com/rr-learning/transferable_dynamics_dataset), a dataset based on real experiments of a 3 DOF robotic arm system is presented, similar to the one shown in the figure below. The robot arm has three joints, each providing one degree of freedom. It is controlled by sending desired torque commands to the motors at each joint. The setup includes a variety of controllers to assess the transferability of learned dynamics models. In particular, we have used the dataset that employs feedback polices, which generates the control inputs with a PD controller. The dataset consists of 50 series of experiments, where each series consists of 14 seconds. The control and observation rate is 1000 Hz, meaning that from each series we have 14000 time steps. At each time step $t$, we have as control input $u_t$ the three desired torques (Nm) sent to the motors, where $n = 3$. The state $y_t$ is six-dimensional, where $m = 6$, containing measured angles (rad) and measured velocities (rad/s). The 50 series of experiments are divided into 38 for training, 3 for validation and 9 for testing.  
 
-<div style="text-align: center;">
+<p align="center">
   <img src="img/robot_scheme.png" alt="drawing" width="350"/>
-</div>
+</p>
 
 The 50 series are loaded in CSV format. Let's look at the first 5 lines of [robot_arm_1.csv](datasets/robot_arm/series/robot_arm_1.csv), that are the first 5 time steps:
 
