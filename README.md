@@ -22,8 +22,7 @@ This is a diagram of the AR-Transformer architecture. Consider the state of a sy
  
 ## Requirements
 
-This project has been realized with the following [libraries](requirements.txt):
-- **Python** == 3.6.8
+This project has been realized with Python 3.6.8 and the following [libraries](requirements.txt):
 - **TensorFlow** == 2.6.2
 - **Keras** == 2.6.0
 - **NumPy** == 1.19.5
