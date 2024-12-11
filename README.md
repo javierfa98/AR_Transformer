@@ -158,4 +158,4 @@ This project is licensed under the GNU General Public License v3.0. You can find
 
 ## Contact
 
-Feel free to contact [Javier Fañanás Anaya](https://github.com/javierfa98) for any questions or issues found with the code.
+Feel free to contact [Javier Fañanás Anaya](https://javierfa98.github.io/) for any questions or issues found with the code.
