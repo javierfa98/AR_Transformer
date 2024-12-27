@@ -1,5 +1,4 @@
 # AR_Transformer: Modeling Dynamical Systems with AutoRegressive Transformers
-This repository is part of a paper accepted for the Seventh Iberian Robotics Conference. More details will be provided later.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -151,7 +150,39 @@ Plot and metrics of an example of a test series after running `` python ar_trans
 The pre-trained model is a fast example, feel free to try different hyperparameter configurations or different datasets!
 
 ## Citation
-This repository is part of a paper accepted for the Seventh Iberian Robotics Conference. More details will be provided later.
+### AR_Transformer Architecture
+
+This repository is part of a paper for the *2024 7th Iberian Robotics Conference (ROBOT)*. Please, cite as:  
+
+J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, "Robot Modeling With Autoregressive Transformers," *2024 7th Iberian Robotics Conference (ROBOT)*, Madrid, Spain, 2024, doi: [10.1109/ROBOT61475.2024.10797406](https://doi.org/10.1109/ROBOT61475.2024.10797406).
+
+```bibtex
+@INPROCEEDINGS{AR-Transformer-2024,
+  author    = {Fañanás-Anaya, Javier and López-Nicolás, Gonzalo and Sagüés, Carlos},
+  title     = {Robot Modeling With Autoregressive Transformers},
+  booktitle = {2024 7th Iberian Robotics Conference (ROBOT)}, 
+  year      = {2024},
+  doi       = {10.1109/ROBOT61475.2024.10797406}
+}
+```
+
+### Training Algorithm
+
+The training algorithm used in this work is part of a paper for the journal *IEEE Access*. If you use this training algorithm, please cite it as:
+
+J. Fañanás-Anaya, G. López-Nicolás, C. Sagüés and S. Llorente, “Food Cooking Process Modeling With Neural Networks,” *IEEE Access*, vol. 12, pp. 175866–175881, 2024, doi: [10.1109/ACCESS.2024.3504724](https://doi.org/10.1109/ACCESS.2024.3504724).
+
+```bibtex
+@article{training-algorithm-2024,
+  author    = {Fañanás-Anaya, Javier and López-Nicolás, Gonzalo and Sagüés, Carlos and Llorente, Sergio},
+  title     = {Food Cooking Process Modeling With Neural Networks},
+  journal   = {IEEE Access},
+  year      = {2024},
+  volume    = {12},
+  pages     = {175866--175881},
+  doi       = {10.1109/ACCESS.2024.3504724},
+}
+```
 
 ## License
 This project is licensed under the GNU General Public License v3.0. You can find the full text of the license in the [LICENSE](LICENSE) file or visit the [GNU website](https://www.gnu.org/licenses/gpl-3.0.en.html) for more details.
