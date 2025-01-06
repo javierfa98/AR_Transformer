@@ -154,7 +154,7 @@ The pre-trained model is a fast example, feel free to try different hyperparamet
 
 This repository is part of a paper for the *2024 7th Iberian Robotics Conference (ROBOT)*. Please, cite as:  
 
-J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, "Robot Modeling With Autoregressive Transformers," *2024 7th Iberian Robotics Conference (ROBOT)*, Madrid, Spain, 2024, doi: [10.1109/ROBOT61475.2024.10797406](https://doi.org/10.1109/ROBOT61475.2024.10797406)
+J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, "Robot Modeling With Autoregressive Transformers", *2024 7th Iberian Robotics Conference (ROBOT)*, Madrid, Spain, 2024, doi: [10.1109/ROBOT61475.2024.10797406](https://doi.org/10.1109/ROBOT61475.2024.10797406)
 
 ```bibtex
 @INPROCEEDINGS{AR-Transformer-2024,
@@ -170,7 +170,7 @@ J. Fañanás-Anaya, G. López-Nicolás and C. Sagüés, "Robot Modeling With Aut
 
 The training algorithm used in this work is part of a paper for the journal *IEEE Access*. If you use this training algorithm, please cite it as:
 
-J. Fañanás-Anaya, G. López-Nicolás, C. Sagüés and S. Llorente, “Food Cooking Process Modeling With Neural Networks,” *IEEE Access*, vol. 12, pp. 175866–175881, 2024, doi: [10.1109/ACCESS.2024.3504724](https://doi.org/10.1109/ACCESS.2024.3504724)
+J. Fañanás-Anaya, G. López-Nicolás, C. Sagüés and S. Llorente, “Food Cooking Process Modeling With Neural Networks”, *IEEE Access*, vol. 12, pp. 175866–175881, 2024, doi: [10.1109/ACCESS.2024.3504724](https://doi.org/10.1109/ACCESS.2024.3504724)
 
 ```bibtex
 @article{training-algorithm-2024,
